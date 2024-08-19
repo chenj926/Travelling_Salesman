@@ -108,5 +108,5 @@ Handles **input reading** and parsing:
 
 ## License
 
-This project is licensed under the MIT License.
+This project is **not licensed** for use, modification, or distribution. All rights are reserved, and no part of this project may be used or reproduced in any form without explicit permissio
 
