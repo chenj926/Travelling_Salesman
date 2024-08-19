@@ -89,3 +89,15 @@ Handles **input reading** and parsing:
 1. Clone the repository:
    ```bash
    git clone https://github.com/chenj926/Travelling_Salesman.git
+
+2. Compile the Java files:
+   ```bash
+   javac Pro5_chenj926.java
+
+3. Run the main program:
+   ```bash
+   java Pro5_chenj926
+
+4. Provide input when prompted or ensure the input file with city coordinates is formatted correctly.
+
+
