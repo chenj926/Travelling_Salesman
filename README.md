@@ -100,4 +100,13 @@ Handles **input reading** and parsing:
 
 4. Provide input when prompted or ensure the input file with city coordinates is formatted correctly.
 
+## Future Improvements
+
+- **Optimize Solver Performance**: By improving the efficiency of the existing algorithms.
+- **Add Visualization**: Implement more detailed graphical visualization of the solution path.
+- **Extend to Dynamic TSP**: Adapt the solution to handle dynamic scenarios where city coordinates change over time.
+
+## License
+
+This project is licensed under the MIT License.
 
